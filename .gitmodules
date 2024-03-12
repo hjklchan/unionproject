@@ -1,0 +1,9 @@
+[submodule "up_frontend_app"]
+	path = up_frontend_app
+	url = https://github.com/hjklchen/up_frontend_app.git
+[submodule "up_backend_api"]
+	path = up_backend_api
+	url = https://github.com/hjklchen/up_backend_api.git
+[submodule "up_pub_protobuf"]
+	path = up_pub_protobuf
+	url = https://github.com/hjklchen/up_pub_protobuf.git
